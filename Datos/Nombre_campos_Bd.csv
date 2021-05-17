@@ -1,0 +1,2354 @@
+﻿Campo,Nombre
+OBJECTID,número
+Shape,Tipo de shape
+SIGNATURA,Identificador único
+CLAVE_RZA,Clave: Red de zonas arqueológicas 
+ZA,Zona arqueológica
+NOM_ENT,Clave entidad
+NOM_MUN,Clave municipio
+CLAVE_REG,Clave de la región
+NOM_SENAL,Nombre de la ZA que en aparece  la señalización 
+NOM_CED,Nombre de la ZA que en aparece en la cedula de registro
+VISITA_OF,ZA con visita oficial
+CIERRE_TEM,Zona arqueológica con cierre temporal
+CAT_LFD,Categoría de la ley federal de derechos 
+PAGOS,Pago de ZA
+VINC_TERCEROS,Zonas arqueológica vinculadas a terceros
+CEDULA_REG,Cedula de registro 
+PROYECTO_A,Zona con proyecto arqueológico
+DIAGNOSTIC,Zona arqueológica con diagnostico
+POLIGONAL,Zona arqueológica con poligonal  definida
+EXP_TEC,Zona arqueológica con expediente técnico
+DECRETO_ZM,ZA con decreto de zona de monumentos arqueológicos
+PATR_MUND,ZA con declaración de patrimonio mundial 
+PROP_INAH,Zona arqueológica con terrenos en propiedad INAH
+PROP_FEDER,Zona arqueológica con terrenos en propiedad federal
+CUSTODIA_T,Zonas arqueológica custodiadas por terceros
+PAT_VIGENT,Zona arqueológica con programa de trabajo anual vigente 
+PROY_PRESE,ZA con proyecto de presentación publica
+Z_METRO,Zona arqueológica en zona metropolitana
+NUCLEOS_A,ZA en núcleo agrario
+MINERIA,ZA con mina cerca
+INFRA_SUST,ZA  con infrestructura sustentable 
+P_MANEJ,ZA que cuenta con plan de manejo 
+ZONIFIC,ZA con zonificación
+PLANIMET,ZA con planimetría vectorizada y georreferenciada por el lab. Geomática
+MUSEOS_SIT,Museos de sitio 
+ANP,Zona arqueológica dentro de un área natural protegida
+VISITA,orden de visitantes 
+GASTO_B,Gasto base de ZA
+EQUIP_INCE,Equipo de incendio 
+POBREZA,Pobreza del poblado donde se encuentra la ZA
+MARGINACIO,Marginación  del poblado en donde se encuentra la ZA
+TIPO_RASGO,Tipo de rasgo arqueológico predominante 
+DOCUMENTOS,Dirección del documento en disco
+GIS,Dirección del SIG en disco
+anp_pot_nu,Se desconoce las siglas
+DIRECCION,Dirección ZA
+UTMESTE,UTM este
+UTMNORTE,UTM norte
+Z_UTM,Zona UTM de ZA
+LONGITUD,Longitud de ZA
+LATITUD,Latitud de ZA
+ALTITUD,Altitud de ZA
+OBJECTID,Número de registro de la base de datos
+Shape,Tipo de dato
+ID,Identificador único
+CLAVE,Clave de registro
+FolioReal,Folio del sistema único de registro público de monomentos arqueológicos e historicos
+NOMBRE,Nombre del sitio arqueológico
+CLAVEEST,Nombre del estado al que pertenece la ZA
+CLAVEMUN,Nombre del municipio al que pertenece la ZA
+ESTRUCTURA,La zona arqueológica cuenta con estructuras
+CONCENTRAC,Concentración de material arqueológico
+CONCHEROS,Existencia de acomulación de conchas trabajadas
+RUPESTRES,En la zona arqueológica se presentan rasgos ruprestes
+PALEONTOLO,ZA con presencia paleontologica
+YACIMIENTO,Extracción de materia prima 
+UTMESTE,Medida UTM este
+UTMNORTE,Medida UTM norte
+Z_UTM,Zona UTM a la que pertenece la ZA
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato que contiene
+cve_inmue,Clave que aparece  en el registro del inmueble
+Nombre_1,Nombre del centro INAH
+Calle_1,Calle de la dirección de centro INAH
+No_ext_1,número exterior de la dirección centro INAH
+Colonia_1,Colonia de la dirección de centro INAH
+CP_1,Codigo postal 
+Localidad_1,Localidad de la dirección de centro INAH
+Municipio,Municipio de la dirección de centro INAH
+ClvEstado,Clave del estado 
+TEL_1,Telefono del centro INAH
+LIGA_1,Liga de la pagina web del sitio
+STATUS_1,Tipo de cosntrucción que se encuentra
+OBJECTID,número consecutivo en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificado único
+Nombre,Nombre del trabajador
+Tipo,Tipo de contrato que se tiene con el INAH
+Puesto,Puesto en el que labora
+Nivel,categoría escalafonaría 
+Antigüeda,Años de servicio
+Observacio,Observaciones respecto al personal que labora en el INAH
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato que contiene
+cve_inmue,Clave del inmueble 
+Calle,Nombre de calle
+No_ext,número exterior
+Referencia,Descripción sobre algunas referencias aledañas a la 
+Colonia,Colonia de la 
+CP,Codigo postal 
+Localidad,Localidadad donde se ubica la 
+Municipio,Municipio/Alcaldia
+Estado,Estado donde se  ubica 
+CVE_ENT,Clave entidad donde se 
+CONSECUTIV,número de museo
+categoría,Administración del museo
+TIPO,Clasificación de tipo de museo 
+LONGITUD,Coordenada geográfica (Longitud)
+LATITUD,Coordenada geográfica (Latitud)
+PASEO_VIRT,Estado en que se encuentra el paseo virtual 
+Museo,Nombre oficial del museo
+Otro_nom,Nombre con el que se le conoce al museo coloquialmente
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato que contiene
+SIGNATURA,Identificado único
+ZA,Nombre de la zona arqueológica
+Museo,Nombre del museo de sítio 
+info_adic,Información adicional
+respons,Responsable del museo
+otra_info,Otra información
+ID_Museo,Identificador del museo
+Tipo,Tipo de museo
+Otro_nom,Otro nombre del museo
+cve_inmue,Clave del inmueble 
+Calle,Calle del museo ZA
+No_ext,número exterior del museo ZA
+Referencia,Descripción sobre algunas referencias aledañas a la 
+Colonia,Colonia del municipio del museo ZA
+CP,Codigo postal 
+Localidad,Localidad donde se enceuntra el museo ZA
+Municipio,número de municipio/Alcaldia
+Estado,número de entidad federativa
+PASEO_VIRT,Estatus del pase virtual (En costrucción/liga)
+categoría,Administración del museo
+LFD,Ley federal de derechos
+CONSECUTIV,número de museo
+LONGITUD,"Coordenada en ""X"" del museo"
+LATITUD,"Coordenada en ""Y"" del museo"
+tipo_inmue,Tipo de inmueble
+fecha_cons,Fecha de constrcción
+arqui_auto,Cuenta con autor de arquitectura
+autor,Nombre del autor
+uso_orig,Uso original del inmueble
+inaugura,Inauguración
+expo_per,Exposición permanente
+sala_per,Sala permanente
+exhib_tem,Exibición temporal
+sala_tem,Sala temporal
+a_serv_edu,Área de servicios educativos
+serv_edu,Servicios educativos
+a_uso_mult,Área de usos multiples
+uso_mult,Usos multiples
+a_aud_aire,Área de auditorio al aire libre
+aud_aire,Auditorio al aire libre
+cap_aud,Capacidad auditorio
+a_bib_pub,Área de biblioteca pública
+bib_pub,Biblioteca pública
+cap_bib,Capacidad de biblioteca
+area_desc,Área de descanso
+esp_desc,Despripción del área
+a_caf_rest,Área de cafetería/Restaurante
+esp_cafe,Espacio cafetería
+cap_cafe,Capacidad cafetería
+a_com_pers,Área de comedor de personal
+com_pers,Comedor de personal
+a_taquilla,Área de taquilla
+esp_taqui,Espacio de la taquilla
+cas_guarda,Casillero guardaropa
+a_publi,Areas públicas
+esp_public,Espacio áreas públicas
+a_invest,Área de investigadores
+esp_invest,Espacio de investigación
+a_museog,Área de museografía
+museogra,Museografos
+a_bod_mus,Área de bodega de museo
+bod_mus,Bodega de museo
+a_bod_mat,Área de bodega de materiales
+bod_mat,Bodega de materiales
+a_dep_col,Áre deposito de colecciones
+dep_col,Deposito de colecciones
+a_ofi_ad,Área oficinas administrativas
+ofic_ad,Oficinas administrativas
+a_verde,Áreas verdes
+a_tall_res,Área talleres de restauracíón
+tall_rest,Talleres de restauración
+a_tall_mus,Área taller de museografia
+tall_mus,Taller museografia
+a_tall_car,Área taller de carpintería
+tall_carp,Taller de carpintería
+a_tall_ele,Área taller de electricidad
+tall_elec,Taller de electricidad
+a_tall_fot,Área total de talleres
+tall_foto,Total de talleres
+mue_san_pu,
+con_san_pu,
+ven_san_pu,
+mue_san_pe,
+con_san_pe,
+ven_san_pe,
+tot_piezas,Total de piezas
+tematica,Tematica
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificado único
+ZA,Zona arqueológica
+OLEAJE,Potencial energetico
+HIDRAULICO,Potencial energetico
+EOLICO,Potencial energetico
+SOLAR,Potencial energetico
+GEOTERMICA,Potencial energetico
+BIOM_URB,Potencial energetico (TJ/año)
+BIOM_FOR,Potencial energetico (TJ/año)
+CELDAS,Cuenta con celdas
+BIODIGESTOR,Cuenta con biodigestor
+AEROGENERADOR,Cuenta con aerogenerador
+Tecnologia_Sustentable,Potencial energetico (TJ/año)
+Tipo_Tecnologia,Tipo de tecnología con la que cuenta la ZA
+NOTA,Cuenta con nota
+OBJECTID,número de base de datos
+SHAPE,Tipo de dato
+SIGNATURA,Identificado único
+ZA,Zona arqueológica
+CONCURRE_NA,Concurrencias con nucleo agrario
+AREA,Área de concurrencia
+PORCENTAJ,Porcentaje de concurrencia
+UBICACION,Ubicación de la zona abierta al publico 
+NUM_NUC,número de núcleos agrarios con los que concurre
+POLIGONO,Delimitación del área
+NOTA,Nota
+AREA_REG,Área registrada
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+MUNICIPIO,Municipio 
+NOM_NUC,Nombre del nucleo 
+ANIO,Año de adscripción
+TIPO,Tipo de nucleo agrario
+POLID_ORG,
+NUM_NUC,número de núcleos agrarios con los que concurre
+CLV_UNICA,Clave unica
+FOL_MATRIZ,Folio de matriz
+municipio_1,Municipio
+inegi,Clave geodestadistica
+SHAPE_Length,Perímetro
+SHAPE_Area,Área 
+OBJECTID_1,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CONC,Área conocida
+NOM_NUC,número de núcleos 
+EDO_CVEINE,Clave INEGI del estado
+MUN_CVEINE,Clave INEGI del municipio
+NUC_CVEINE,Clave INEGI del núcleo
+MUNICIPIO,Nombre municipio
+ANIO,Año de adscripción
+TIPO,Tipo de núcleo
+POLID_ORG,
+NUM_NUC,número de núcleos agrarios con los que concurre
+CLV_UNICA,Clave unica
+FOL_MATRIZ,Folio de matriz
+municipio_,Municipio
+inegi,Clave geodestadistica
+SHAPE_Leng,Perímetro
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+SISMO_PEL,Grado de peligro de sismo
+SISMO_REG,Registro de sismos
+SISMO_CLASE_PEL,Clase peligros de los sismos
+DESL_LADERAS,Grado en el deslinde de laderas
+DESL_LAD_REG,Registro de deslaves de ladera
+EOL_PEL,Grado peligro eolico
+EOL_ZONA,Zona eolica
+EOL_VEL_KMHR,Velocidad en KMHR del aire
+GRANIZ_PEL,Peligro de granizo
+GRANIZ_IND,Indicadores de granizo
+INUNDA_PEL,Grado de leligro de inundación
+INUNDA_NUM,número de indicaciones 
+HURAC_PEL,Grado de peligro de huracanes
+HURAC_P_IND,Indicadores huracanes
+HURAC_RIES,Riesgo de huracanes
+HURAC_R_IND,Indicadores de riesgo de huracanes
+NEVADA_PEL,Peligro de nevadas
+NEVADA_IND,Indicadores de nevadas 
+TORMEN_PEL,Peligro de tormentas
+TORMEN_IND,Indicadores de tormentas 
+TSUNAMI,Tsunamis
+VOLCAN,Nombre  de los volcanes a la redonda
+VOLCAN_DIST_KM,Distancia en Km de los volcanes
+VOLC_REG,Región volcanica
+VOLC_FLUJO,Flujo volcanico
+OBJECTID_1,número de la base de datos
+Shape,Tipo dato que contiene
+SIGNATURA,Identificador único
+Expediente,Se cuenta con expediente
+Patrimonio,Año de adscripción 
+Nombre_P_M,Nombre de registro de patrimonio mundial
+Decreto_Pr,Año de decreto presidencial
+Decreto_Es,AÑO de decreto estatal
+Modificaci,Modificaciones
+Observacio,Observaciones
+ZA_ANP_Fed,ZA  dentro de un área natural protegida federal
+ZA_ANP_Est,ZA  dentro de un área natural protegida estatal 
+CON,Destinada a la conservación voluntariamente
+ZA,Zona arqueológica
+OBJECTID,número de base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+ID_Museo,Identificador del museo
+Edo_Museo,Contiene museos
+Sanitarios,Indicador de las condiciones de los sanitarios
+Estacionamiento,Indicador de las condiciones de los estacionamientos
+Taquilla,Indicador de las condiciones de la taquilla
+Areas_Descanso,Inicador de las condiciones de las áreas de descanso
+Andadores,Indicador de las condiciones de los andadores
+Almacen,Indicador de las condiciones de almacen
+Basureros,Indicador de la condiciones de los basureros
+Venta_Publicaciones,Indicador de las condiciones en la venta de publicaciones
+Venta_Artesanias,Indicador de las condiciones en la venta de artesanias
+Cafeteria,Indicador de las condiciones en la cafeteria
+Restaurante,Indicador de la condición de restaurantes
+Oficinas,Indicador de las condiciones en las oficinas
+Bodega,Indicador de las condiciones en bodegas
+Campamento,Indicador de las condiciones en campamento
+Especificacion_Campamento,Especificaciones del campamento
+Laboratorio,Indicador de las condiciones del laboratorio
+Cedulas,Indicador de las condiciones de las cedulas
+Señalizacion_Restrictiva,Indicador de las señalizaciones restrictivas
+Año_Cedulas,Año de la creación de las cedulas
+Cedulas_Ultimo,Año de las ultimas cedulas creadas
+Tecnologia_Sustentable,Indicador de las tecnologias sustentables que se encuentran en las zonas 
+Tipo_Tecnologia,Tipo de tecnología con la que cuenta la ZA
+Unidad_Servicios,Indicador de las condiciones de la unidad de servicio
+Observaciones_Servicios,Observación de los servicios con los que cuenta la ZA
+Fuente_1,Fuente de información
+Fuente_2,Fuente de información
+Subcategoría_INFRA,Subcategoría de la infrestructura
+suma,Borrar
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificado único
+ZA,Zona arqueológica
+NOM_ENT,Nombre de la entidad
+U_Responsa,Unidad responsable
+categoría,categoría de zona arqueológica
+Cierre_Temp,Cierre temporal
+PAT_2018,Plan anual de trabajo 2018
+PAT_2017,Plan anual de trabajo 2019
+PAT_2016,Plan anual de trabajo 2016
+PAT_2015,Plan anual de trabajo 2016
+PAT_2014,Plan anual de trabajo 2014
+PAT_2013,Plan anual de trabajo 2013
+INGRESO_PAT,Año en que ingreso al PAT
+C_UEJ_2014,Clave unidad ejecutora 2014
+C_Uej_2015,Clave unidad ejecutora 2015
+Obs,Observaciones
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+PET_2011,Programa de empleo temporal  2011
+PET_2012,Programa de empleo temporal 2012
+PET_2013,Programa  de empleo temporal 2013
+PET_2014,Programa de empleo temporal 2014
+NOTAS_2014,Notas
+SUMA,Total de años en los que se llevo el PET
+ZA,Zona arqueológica
+OBJECTID_1,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+ZA,Zona arqueológica
+PM,Patrimonio mundial
+PAT,Plan anual de trabajo
+AÑO_ELAB,Año de la elaboración
+AÑO_PAT,Año de ingreso de la ZA al PAT
+REPORTE_PA,Reporte PAT
+categoría,Categoría de plan
+FORMATO,Formato en el que se encuentra el plan 
+SECTORIZA,Si cuenta con sectorización
+FECHA_MOD,Fecha de modificación
+RESPONSABL,Responsable
+Clasificac,Clasificación de ZA
+Politicas,Politicas de manejo
+APERTURA,Año de apertura
+Seguimient,Actualización del seguimiento
+OBJECTID_1,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+REGION,Región geográfica
+ESTADO,Entidad federativa
+ZA,Zona arqueológica
+FIG_JUR,Figura juridica
+SUP,Superficie
+FECHA_ADQ,Fecha de adquisición
+SUM_SUP_CO,Sumatoria de superficie completa
+OBS,Observaciones
+FECHA_ACT,Fecha de actualización
+FUENTE,Fuente de información
+OBJECTID,número de registro en la base de datos
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+ZA,Zona arqueológica
+Proyecto,Tipo de proyecto
+Especificacion,Especificación del proyecto
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+DIFERENCIA,Existe diferencia
+DIF_HA,Diferencia en hectáreas
+FUENTE,Fuente de información
+OBSERVAC,Observaciones
+SHAPE_Leng,Perímetro
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Indicador único
+ZA,Zona arqueológica
+NOM_ENT,Nombre de la entidad
+NOM_MUN,Nombre del municipio 
+HAS_CALCU,Hectáreas calculadas
+H_DECRETO, Hectáreas en el decreto
+HAS_REG,Hectáreas registradas
+A_Plano,Año del plano
+HTOT_CAL,Hectáreas totales calculadas
+HTOT_REG,Hectáreas totales registradas
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+CLAVE_RZA,Clave de red de zonas arqueológicas
+NOMBRE_ZA,Nombre de la zona arqueológica
+INAH,Centro INAH responsable
+UBICACION,Dirección de la zona arqueológica
+NOM_MUN,Nombre del municipio
+COORD_GEOO,Coordenadas geográficas oeste
+COORD_GEON,Coordenadas geográficas norte
+MSNM,Metros sobre el nivel del mar
+COORD_UTME,Coordenadas UTM este
+COORD_UTMN,Coordenadas UTM norte
+ZONA_UTM,Zona UTM
+POBLACION_CERCA,Población cercana
+ACCESO,Acceso a la zona
+SUPERF_ABIERTA,Superficie abierta 
+AREA_REG,Área registrada
+GASTO_OPERACION,Gastos de operación 
+GASTO_INVERSION,Gastos de inversión
+RECURSOS_TERCEROS,Recursos de terceros
+VINCULACION_TERCEROS,Vinculación a terceros 
+PERSONAL_ADSCRITO,Personal adscrito a la ZA
+INVESTIGADOR_RESP,Investigador responsable
+HORARIO_VISIT,Horario de visita
+CUSTODIA,Custodia
+INSCRIP_MUNDIAL,Fecha de inscripción mundial
+DECRETOS,Decretos con los que cuenta la zona
+DECRETO_PARQUE,Decreto de ANP
+IMPORTANCIA_CULT,Importancia cultural
+CONTEXTO_MANEJ,Contexto del manejo
+FUENTES,Fuente de información
+ACTUALIZACIÓN,Fecha de la actualización
+PORC_SUP_AB,Porcentaje de la superficie abierta
+NUCLEO_A,Núcleo agrario
+MUSEO_ZA,Museo de zona arqueológica
+CEDULAS,Año de las cedulas
+CONTEXTO,Contexto urbano/rural en el que se encuentran
+TIPO_MUN,Tipo de municipio
+PORCENTAJ,Porcentaje en municipio 
+NUM_NUC,número de núcleos
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Nombre de la zona arqueológica
+ANP,Área natural protegida
+UBICACION,Dentro/Fuera de la ANP (área natural protegida)
+A_TOT_CONC,Área total contabilizada
+P_TOT_CONC,Perímetro total contabilizado
+TIPO,Tipo de ANP
+NUM_ANP,números de ANP
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+ID_ANP,Identificador del  área natural protegida
+NOMBRE,Nombre de la ANP
+CAT_DECRET,Categoría de decreto
+CAT_MANEJO,Categoría de manejo 
+ESTADOS,Entidad federativa donde se ubica la ANP
+MUNICIPIOS,Nombre del municipio
+REGION,Región en la que se encuentra la ANP
+SUPERFICIE,Superficie de la ANP
+S_TERRES,Superficie terrestre de la ANP
+S_MARINA,Superficie maritima de la ANP
+PRIM_DEC,Fecha primer decreto
+ULT_DOF,Ultima fecha documento oficial
+PCM1,
+SINAP,
+PAGO_ANP,Pago 
+Shape_Length,Perímetro 
+Shape_Area,área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+ZA,Nombre de la zona arqueológica
+NOMBRE_ANP,Nombre del área natural protegida
+CAT_DECRET,Categoría de decreto
+CAT_MANEJO,Categoría de manejo 
+ESTADOS,Entidad federativa
+MUNICIPIOS,Nombre de municipio
+REGION,Región en la que se encuentra la ANP
+SUPERFICIE,Siperficie de la ANP
+S_TERRES,Superficie terrestre de la ANP
+S_MARINA,Superficie marina de la ANP
+PRIM_DEC,Primer fecha decreto
+ULT_DOF,Ultima fecha documento oficial
+PCM1,
+SINAP,
+Z_NUCLEO,
+UBICA_ZA,Ubicación zona arqueológica
+VIS_OF,Zona arqueológica con visita oficial
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+AREA_CONC,Área contabilizada
+PORC_CONC,Porcanteje contabilizado
+PAGO_ANP,Pago de ANP
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indicador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+DIFERENCIA,Diferencias de áreas
+DIF_HA,Diferencias de hectáreas
+NOMBRE,Nombre de la ANP
+TIPO,Tipo de la ANP
+ULT_DEC,Ultimo decreto
+CAT_DEC,Categoría de decreto
+ENTIDAD,Entidad federativa
+MUN_DEC,Municipio decretado
+SUPHA_DEC,Superficie de hectáreas decretadas
+AREA,Área de la ANP
+PERIMETRO,Perímetro de la ANP
+FUENTE_1,Fuente de información
+OBSERVA,Observaciones
+NOMBRE_u,Nombre de la unificación
+FUENTE_u,Fuente de información
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+SHAPE,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueologica
+CERT,Clave de la certificación
+TIPO,Tipo
+NOM_PREDIO,Nombre del predio
+INSTRUME,Instrumentación
+NOM_POLIG,Nombre del polígono
+FECHA,Fecha de inicio de conservación
+VIGENCIA,Vigencia de uso de suelo
+ESTADO,Entidad federativa
+MUNICIPIO,Municipio
+FUENTE_1,Fuente de información
+SUP_INSTR,
+HECTARES,número de hectáreas
+ECOSISTEMA,Tipo de ecosistema presente en la zona
+SHAPE_Length,Perímetro
+SHAPE_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+ESTADO,Entidad federativa
+TOT_GB,Total gente de base
+CAT_GB,Categoría gente de base
+CAT_RH,Categoría de recursos humanos 
+CAT_VIS,Categoría de visitantes
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Nombre de la zona arqueológica
+VISITA_OF,Zona arqueológica con visita oficial
+CIERRE_TEM,Cierre temporal
+CAT_LFD_2013,Categoría de la ley federal de derechos 2013
+PAGOS_2013,Pagos en 2013
+CAT_LFD_2014,Categoría de la ley federal de derechos 2014
+PAGOS_2014,Pagos 2014
+CAT_LFD_2015,Categoría de la ley federal de derechos 2015
+PAGOS_2015,Pagos 2015
+CAT_LFD_2016,categoría de la ley federal de derechos 2016
+PAGOS_2016,Pagos 2016
+CAT_LFD_2017,Categoría de la ley federal de derechos 2017
+PAGOS_2017,Pagos 2017
+OBJECTID_1,número  de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Nombre de la zona arqueológica
+VISITA_OF,Zona arqueológica con visita oficial
+T_2005,Total de vistantes 20005
+T_2006,Total de vistantes 20006
+T_2007,Total de vistantes 20007
+T_2008,Total de vistantes 20008
+T_2009,Total de vistantes 20009
+T_2010,Total de vistantes 20010
+T_2011,Total de vistantes 20011
+T_2012,Total de vistantes 20012
+T_2013,Total de vistantes 20013
+T_2014,Total de vistantes 20014
+T_2015,Total de vistantes 20015
+T_2016,Total de vistantes 20016
+TOTAL_G,Total 
+PROM_10_ANO,Promedio de 10 años
+ORD_10_ANO,Orden de los 10 años 
+PROM_5_ANO1,Promedio de  5 años 1
+ORD_5_ANO1,Orden de 5 años 1
+PROM_5_ANO2,Promedio de 5 años 2
+ORD_5_ANO2,Orden de 5 años 2
+OBJECTID,número de la base de datos
+Estado,Entidad federativa
+Centro_de_trabajo,Centro de trabajo
+Fecha,Fecha de expedición
+Nacionales,Visitantes nacioanles
+Extranjeros,Visitantes extranjeros
+Boletos,número de boletos
+Total,Total visitantes
+Monto,Monto Total
+Estado_1,Entidad federativa
+SIGNATURA,Identificador único 
+SIGNATURA,Identificador único
+ZA,Nombre de la zona arqueológica
+INAH,INAH a la que pertenece la ZA
+NOM_MUN,Nombre de municipio
+UTMESTE,UTM Este
+UTMNORTE,UTM norte
+Z_UTM,Zona UTM
+LONGITUD,Coordenada de longitud
+LATITUD,Coordenada de latitud
+TIPO_RASGO,Tipos de rasgos existentes en la zona 
+INSCRIP_MUNDIAL,Fecha de inscripción al patromonio mundial 
+CIERRE_TEM,Cierre temporal
+UBICACION,Ubicación de la ZA
+VISITA_OF,Zona arqueológica con visita oficial
+OBJECTID,número registrado en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológia
+Entidad,Entidad federativa
+Clave,Clave de registro
+Estructura,Registro de estructura
+Arq_mamp,Arquitectura de mamposteria 
+Arq_tier,Arquitectura de terreno
+J_pelota,Juego de pelota
+Casa_aca,Casas acantonadas
+Pint_mur,Pintura mural
+Pint_rup,Pinturas rupestres
+Petrogli,Petroglifos
+Paleonto,Rasgos paleontológicos
+Yacimiento,Yacimientos
+A_habita,Área habitacional
+Escultura,Estructuras
+Tumbas,Tumbas
+Camp_est,Campamento estacional
+Grutas,Grutas
+Apogeo,Periodo de apogeo
+No_rasgo,No presenta rasgo
+Fil_cult,Filiación cultural
+Region,Región mesoamericana
+OBJECTID,número en la base de datos
+Shape,Tipo de dato
+Region,Regiones mesoamericanas
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zonas arqueológica
+LUZ_SON,Luz y sonido
+CONCIERT,Conciertos
+REC_NOCT,Reccorridos nocturnos 
+DANZA,Danza
+TEATRO,Teatro
+NOC_ESTR,Noche de estrellas
+EQUINOC,Equinoccios
+RIT_COMU,Ritos comunitarios
+EV_DEPOR,Eventos deportivos
+CONFEREN,Conferencias
+OTROS,Otros 
+FUENTE,Fuente de información
+LINK,Liga de la fuente
+OBJECTID,número en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+DIFERENCIA,Diferencia 
+DIF_HA,Diferencia de hectareas
+LENGUA,Lengua indígena en la zona
+SUM_HECTAR,Suma de hectareas
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador oficial
+ZA,Zona arqueológica
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidadad
+NOM_MUN,número de municipio
+VISITA_OF,Visita oficial
+CLIMA_LLAV,Identificador numérico para cada rango de temperatura
+CLIMA_SC,Cima seco 
+CLIMA_TP,Clima templado
+CLIMA_SF,
+CLIMA_TIPO,Tipo de clima
+DES_TEM,"Descripción del clima, de acuerdo a las características de temperatura"
+DESC_PREC,"Descripción del clima, de acuerdo a las características de precipitación"
+Shape_Length,Área
+Shape_Area,Perímetro
+OBJECTID,Número 
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Nombre de zona arqueológica
+NOM_ENT,Número de la entidadad
+NOM_MUN,Número del municipio
+VISITA_OF,Cuenta con visita oficial
+RANGOS,Rango de la precipitaciones 
+Shape_Length,Perímetros
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zonas arqueológica
+NOM_ENT,Número de la entidadad
+NOM_MUN,Número del municipio
+VISITA_OF,Cuenta con visita oficial
+AP1,Precipitación anual 1
+PRECI_RANG,Rago de precipitaciones
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Nümero de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidadad
+NOM_MUN,Número del municipio
+VISITA_OF,Cuenta con visita oficial
+CLAVE,Clave de estatrigrafía
+FC,Campo no especificado
+ENTIDAD,Entidad a la que pertenece
+CLASE,Clase de roca
+TIPO,Tipo de roca
+ERA,Era
+SUB_ERA,Subera
+SISTEMA,Periodo geológico
+UNION_SIST,Sistema de unión
+SERIE,Serie de división en periódico geológico
+UNION_SER,Unión de series
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,Número asignado en la base de datos
+Shape,Tipo de dato
+OBJECTID,Número asignado en la base de datos
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidadad
+NOM_MUN,Número del municipio
+VISITA_OF,Cuenta con visita oficial
+TIPO,Tipo de degradación/erosión
+GRADO,Grado de degradación/erosión
+causa,Causa de degradación/erosión
+Shape_Leng,Perímetro
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número asignado en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,número de entidad federativa
+NOM_MUN,Número de municipio
+VISITA_OF,Visita oficial
+SUE1,Abreviatura del tipo de suelo presente en el polígono
+TEX,"Identificador del tipo de textura (1, 2 ,3), presente en cada tipo de suelo"
+FASFIS,Factores físicos
+FASQUIM,Identificador de la fase química del suelo
+OBSERVACIO,Observaciones
+DESCRIPCIO,Descripción del suelo
+DESC_TEX,Se describe el tipo de textura
+DESC_FASFI,Se describe la fase física
+DESC_FAQUI,Se describe la fase química
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número asignado en la base de datos
+Shape,Tipo de dato
+Signatura,Clave de identificación
+TA_LLAVE_,Identifiacdor numérico  para cada rango de temperatura
+TA_RANGO,Rango de temperatura cada 2°C
+TA_ZONA_T,Zonas termicas
+TA_VALOR,Valores de la temperatura anual
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+TA_LLAVE_,Identificador numérico para cada rango de temperatura.
+TA_RANGO,Rango de temperatura anual
+TA_ZONA_T,Zona de temperatura anual
+TA_VALOR,Valor numérico para cada rango de temperatura.
+Shape_Length,Perímetro de los polígonos asociados a un rango de temperaturas
+Shape_Area,Área de los polígonos asociados con un rango de temperaturas
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidad
+NOM_MUN,Número del municipio
+VISITA_OF,Tiene visita oficial
+AP1,Identificador numérico para cada rango de temperatura.
+TA_RANGO,Rango de temperatura anual
+TA_ZONA_T,Zona de la temperatura anual
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Identificador de la base de datos
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidad
+NOM_MUN,Número del municipio
+VISITA_OF,Visita oficial
+GRUPO_FINA,Grupo  tipo de vegetación
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número asignado en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+CVE_ENT,Número de la entidad
+CVE_MUN,Número del municipio
+VISITA_OF,Visita oficial
+NOM_MUN,Nombre propio del municipio.
+NOM_ENT,Nombre de la entidad
+POB_TOT,Población total por localidad
+TOTVIV,Total de viviendas
+ANALF,Analfabetismo
+SPRIM,% Población de 15 años o más sin primaria completa 
+OVSDE,% Ocupantes en viviendas sin drenaje ni excusado
+OVSEE,% Ocupantes en viviendas sin energía eléctrica
+OVSAE,% Ocupantes en viviendas sin agua entubada
+VHAC,% Viviendas con algún nivel de hacinamiento
+OVPT,% Ocupantes en viviendas con piso de tierra
+PL_MEN5000,% Población en localidades con menos de 5 000 habitantes
+PO2SM,% Población ocupada con ingreso de hasta 2 salarios mínimos
+OVSD,% Ocupantes en viviendas particulares sin drenaje
+OVSDSE,% Ocupantes en viviendas sin drenaje ni servicio sanitario exclusivo
+IMM,Índice de marginación por municipio
+GMM,Grado de marginación por municipio
+ANIO,Año
+OBJECTID,Nümero de registro en la base de datos
+Shape,Tipo de dato
+Signatura,Identificador  único
+ZA,Zona arqueológica
+CVE_ENT,Clave de la entidad federativa
+CVE_MUN,Clave del munipio en la entidad federativa
+VISITA_OF,Visita oficial
+NOM_MUN,Municipio
+NOM_ENT,Entidad federativa
+POB_TOT,Población total 
+TOTVIV,Viviendas particulares
+ANALF,% Población de 15 años o más analfabeta
+SPRIM,% Población de 15 años o más sin primaria completa 
+OVSDE,% Ocupantes en viviendas sin drenaje ni excusado
+OVSEE,% Ocupantes en viviendas sin energía eléctrica
+OVSAE,% Ocupantes en viviendas sin agua entubada
+VHAC,% Viviendas con algún nivel de hacinamiento
+OVPT,% Ocupantes en viviendas con piso de tierra
+PL_MEN5000,% Población en localidades con menos de 5 000 habitantes
+PO2SM,% Población ocupada con ingreso de hasta 2 salarios mínimos
+OVSD,% Ocupantes en viviendas particulares sin drenaje
+OVSDSE,% Ocupantes en viviendas sin drenaje ni servicio sanitario exclusivo
+IMM,Índice de marginación por municipio
+GMM,Grado de marginación por municipio
+ANIO,Año
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+CVE_ENT,Clave de la entidad federativa
+CVE_MUN,Clave del municipio
+VISITA_OF,Visita oficial
+NOM_MUN,Municipio
+PORC_EXT,Porcentaje de pobreza extrema
+PERS_EXT,Personas en pobreza extrema
+CARENC_EXT,Carencia extrema
+PERS_MOD,Personas con pobreza moderada
+PORC_MOD,Porcentaje pobreza moderada
+CARENC_MOD,Carencia de pobreza moderada
+OBJECTID,Identificador único
+Shape,Tipo de dato
+Signatura,Identiicador único
+ZA,Zona arqueológica
+CVE_ENT,Entidad federativa
+CVE_MUN,Municipio
+VISITA_OF,Visita oficial
+NOM_MUN,Nombre de municipio
+PORC_EXT,Porcentaje pobreza extrema
+PERS_EXT,Personas pobreza extrema
+CARENC_EXT,Carencia de extrema pobreza
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Identificador único
+Shape,Tipo de dato
+Signatura,Identificador único
+ZA,Zona arqueológica
+CVE_ENT,Clave de la entidad federativa
+CVE_MUN,Clave del municipio
+VISITA_OF,Visita oficial
+NOM_MUN,Nombre municipio
+PERS_MOD,Personas con moderara pobreza
+PORC_MOD,Porcentaje de moderación de pobreza
+CARENC_MOD,Carencia moderación de pobreza
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+CVE_ENT,Clave del entidad federativa
+CVE_MUN,Clave del municipio
+VISITA_OF,Visita oficial
+NOM_MUN,Nombre del municipio
+A_2010,Año 2010
+A_2011,Año 2011
+A_2012,Año 2012
+A_2013,Año 2013
+A_2014,Año 2014
+A_2015,Año 2015
+A_2016,Año 2016
+A_2017,Año 2017
+A_2018,Año 2018
+A_2019,Año 2019
+A_2020,Año 2020
+A_2021,Año 2021
+A_2022,Año 2022
+A_2023,Año 2023
+A_2024,Año 2024
+A_2025,Año 2025
+A_2026,Año 2026
+A_2027,Año 2027
+A_2028,Año 2028
+A_2029,Año 2029
+A_2030,Año 2030
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueoloógica
+NOM_ENT,Nombre de la entidad
+JURIDICO,Jurico
+EXPROPI,Expropiación
+TERR_NAL,Terrenos nacionales
+TERR_NAL_POS,Terrenos nacionales en posesión
+ZONA_FED,Zona federal
+NUCLEO_AGRARI,Núcleo agrario
+AREA_ESPECIAL,Área especial
+PARCELA,Parcela
+SOLAR,
+USO_COMUN,Uso común
+PEQ_PROP,Propiedad pequeña
+PROP_PRIV,Propiedad privada
+DOMINIO_PLENO,Pleno dominio
+FEDERAL,Zona federal
+SOCIAL,Zona social
+PRIVADO,Zona privada
+TOTAL_ZA,Total de zona arqueológica
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificado único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+AREA_TRASL,
+PORC_TRASL,
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Detino de propiedad
+NOM_ENT,Nombre de la entidad
+Abreviatur,Abreviatura de la entidad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+ESTADO,Estado
+MUNICIPIO,Municipio
+NUC_AGR,Núcleo agrario
+TIPO_NA,Tipo nacional
+FECHA_DEC,Fecha de decreto
+FECHA_PUB,Fecha de publicación
+PROMOVENTE,
+DECRETO,Decreto
+SUP_REAL,Superficie real
+FECHA_EJEC,Fecha de ejecución
+No_INSC,Número de inscripción
+FECHA_INSC,Fecha de inscripción
+FOJA,Foja
+TOMO,Tomo
+VOLUMEN,Volumen
+NOTA,Nota
+FOL_TIE,Folio
+Mosaico,Mosaico
+MOT_EXP,Motivos de expropiación
+AREA_TRASL,Área de traslape
+PORC_TRASL,Porcentaje de traslape
+EXPROPI,Expropiación
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador ínico
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+CVE_LIGA,
+CVE_RAN,
+CVE_CAR50,
+CVE_CAR250,
+CVE_DEL,
+CVE_EDOMUN,
+NOMB_PRED,Nombre del predio
+NOMB_PROP,Nombre del propietario
+CVE_EXPSRA,
+CVE_CAT,Clave de la categoría de la ley federal de derechos 
+CVE_RPP,Clave de registro de propiedad privada
+CVE_RFC,Clave RFC
+CVE_CALI,
+CVE_USO,Clave de uso
+CVE_TEN,Clave de tenencia
+CVE_SITLEG,
+X_UTM_CENT,Coordenada UTM (X)
+Y_UTM_CENT,Coordenada UTM (Y)
+AREA_PRED,Área  del predio 
+AREA_TRASL,
+PORC_TRASL,
+TERR_NAL,Terrenos nacionales
+TIP_PROP,Tipo de terreno
+DEST_PROP,Detino de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueilógica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+CVE_RAN,
+CVE_CAR50,
+CVE_CAR250,
+CVE_DEL,
+CVE_EDOMUN,
+NOMB_PRED,Nombre del predio
+NOMB_PROP,Nombre del propietario
+CVE_EXPSRA,
+CVE_CAT,
+CVE_RPP,
+CVE_RFC,
+CVE_CALI,
+CVE_USO,
+CVE_TEN,
+CVE_SITLEG,
+X_UTM_CENT,Coordenada UTM  (X)
+Y_UTM_CENT,Coordenada UTM  (Y)
+AREA_PRED,Área del predio
+ID_1,número de registro en la base de datos
+MUNLIGA,
+AREA_TRASL,
+PORC_TRASL,
+TERR_NAL_POS,Terreno nacional en posicón
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Area registrada
+AREA_CAL,Área calculada
+CVE_LIGA,
+CVE_RAN,
+CVE_CAR50,
+CVE_CAR250,
+CVE_DEL,
+CVE_EDOMUN,
+NOMB_PRED,Nombre del predio
+NOMB_PROP,Nombre del propietario
+CVE_EXPSRA,
+CVE_CAT,Clave de la categoría de la ley federal de derechos 
+CVE_RPP,Clave de registro de la propiedad privada
+CVE_RFC,Clave de registro federal del contribuyente
+CVE_CALI,
+CVE_USO,Clave de uso de la tierra
+CVE_TEN,Clave de la tenencia
+CVE_SITLEG,
+X_UTM_CENT,Coordenada en UTM (x)
+Y_UTM_CENT,Coordenada en UTM (y)
+AREA_PRED,Área del predio
+ID_1,
+ID_12,
+MUNLIGA,
+AREA_TRASL,
+PROC_TRASL,
+ZONA_FED,Zona federal
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de la propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+ID,Identificador único
+CVE_LIGA,
+CVE_RAN,
+CVE_CAR50,Clave de la carta a 50000
+CVE_CAR250,Clave de la carta a 250000
+CVE_DEL,Clave del estado 
+CVE_EDOMUN,Clave del municipio
+NOMB_PRED,Nombre del predio
+NOMB_PROP,Nombre del propietario
+CVE_EXPSRA,
+CVE_CAT,Clave de la categoría de la ley federal de derechos 
+CVE_RPP,Clave de registro de la propiedad privada
+CVE_RFC,Clave de registro federal del contribuyente
+CVE_CALI,
+CVE_USO,Clave de uso
+CVE_TEN,Clave de la tenencia
+CVE_SITLEG,
+X_UTM_CENT,Coordenadas UTM X
+Y_UTM_CENT,Coordenadas UTM y
+AREA_PRED,Área del predio
+AREA_TRASL,
+PORC_TRASL,
+PEQUE_PROP,Pequeña propiedad
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de la propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Nümero de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+FID_PROPIEDAD_PRIVADA_ZA,Propiedad privada zona arqueológica
+ID,Número de registro en la base de datos
+CVE_LIGA,
+CVE_RAN,
+CVE_CAR50,Clave de la carta a 50000
+CVE_CAR250,Clave de la carta a 250000
+CVE_DEL,Clave del estado 
+CVE_EDOMUN,Clave del municipio
+NOMB_PRED,Nombre del predio
+NOMB_PROP,Nombre del propietario
+CVE_EXPSRA,
+CVE_CAT,Clave de la categoría de la ley federal de derechos 
+CVE_RPP,Clave de registro de la propiedad privada
+CVE_RFC,Clave de registro federal del contribuyente
+CVE_CALI,
+CVE_USO,Clave de uso
+CVE_TEN,Clave de la tenencia
+CVE_SITLEG,
+X_UTM_CENT,Coordenada UTM (X)
+Y_UTM_CENT,Coordenada UTM (Y)
+AREA_PRED,Área del predio
+MUNLIGA,
+AREA_TRASL,
+PORC_TRASL,
+PROP_PRIVDA,Propiedad privada
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de la propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Nümero de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+AES_DESC,Área descrita
+AREA_TRASL,
+PORC_TRASL,
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de la propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tip de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueoloógica
+AREA_REG,Área registrada
+AREA_CONC,Área conocida
+NOM_NUC,Nombre del núcleo agrario
+EDO_CVEINE,
+MUN_CVEINE,
+NUC_CVEINE,
+MUNICIPIO,Nombre del municipio
+ANIO,Año
+TIPO,Tip de núcleo
+POLID_ORG,
+NUM_NUC,Nombre del núcleo agrario
+CLV_UNICA,Clave única
+FOL_MATRIZ,Folio de la matriz
+municipio_,Nombre del municipio
+inegi,INEGI
+NUC_AGR,Núcleo agrario 
+DEST_PROP,Destino de la propiedad
+TIP_PROP,Tipo de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+EDO_CVEINE,
+MUN_CVEINE,
+NUC_CVEINE,
+NUC_POLIGO,Polígono de núcleo
+ZPAR_ZONA,Zona de la parcela
+PAR_CVE,Clave de la parcela
+TIP_PRE,Tipo de predio
+PAR_USOSUE,Uso de suelo de la parcela
+PAR_CLASET,Clase de la parcela
+CUID,
+parce_num,Parcela numero
+Propio,Nombre del dueño
+AREA_TRASL,
+PORC_TRASL,
+PARCELAS,
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+EDO_CVEINE,Clave estado
+MUN_CVEINE,Clave municipio
+NUC_CVEINE,Clave núcleo agrario
+NUC_POLIGO,Polígono de núcleo
+LOC_CVEINE,Clave de la localidad
+ZAH_ZONA,
+MAN_CVE,
+SOL_CVE,
+SOL_USOSUE,
+TIP_PRE,Tipo de predio
+CUID,
+AREA_TRASL,
+PORC_TRASL,
+SOLARES,
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Desto de propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+AREA_REG,Área registrada
+AREA_CAL,Área calculada
+EDO_CVEINE,Clave de estado
+MUN_CVEINE,Clave de municipio
+NUC_CVEINE,Clave de núcleo
+NUC_POLIGO,Polígono de nucleo
+TUC_ZONA,
+TUC_CLASET,
+TUC_USOSUE,
+expropia1,
+expropia2,
+origen,
+Shape_Leng,Perímetro
+AREA_TRASL,Área
+PORC_TRASL,
+USO_COMUN,Úso común 
+TIP_PROP,Tipo de propiedad
+DEST_PROP,Destino de la propiedad
+Shape_Length,Perímetro
+Shape_Area,Área
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,identificador único
+NOM_ENT,Nombre de la entidad
+ZA,Zona arqueológica
+FEDERAL,Propiedad federal
+PRIVADA,Propiedad privada
+SOCIAL,Propiedad social
+DESCONOCID,Propiedad desconocida
+TOTAL_TIPO,
+AREA_REG,Área registrada
+OBJECTID,Número de registro asignada en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+CLAVE_RZA,Calve de Red de Zonas Arqueológicas
+ZA,Zona arqueológica
+NOM_ENT,Entidad federativa
+NOM_MUN,Municipio
+CLAVE_REG,Clave de registro
+NOM_SENAL,Nomo de contextos
+NOM_CED,Nomo de contextos
+VISITA_OF,Nombre de la cedula
+CIERRE_TEM,Cierre temporal
+CAT_LFD,Clave de la categoría de la ley federal de derechos 
+PAGOS,Pagos
+CEDULA_REG,Cedula de registro 
+PROYECTO_A,Proyecto arqueológico
+DIAGNOSTIC,Diagnostico
+POLIGONAL,Poligonal
+EXP_TEC,Expediente técnico
+DECRETO_ZM,Decreto de zona de monumentos
+PATR_MUND,Patrimonio mundial
+PROP_INAH,Propiedad INAH
+PROP_FEDER,Propiedad federal
+CUSTODIA_T,Custodia
+PAT_VIGENT,Progama anual de trabajo
+PROY_PRESE,Proyecto presente
+Z_METRO,Zona metropolitana
+NUCLEOS_A,Núcleos agrarios
+MINERIA,Minería
+INFRA_SUST,Infrestructura sustentable
+P_MANEJ,Plan de manejo
+ZONIFIC,Zonificación
+PLANIMET,Planimetría
+MUSEOS_SIT,Museo de sitio
+ANP,Área natural protegida
+VISITA,Visita
+GASTO_B,Gasto base
+EQUIP_INCE,Equipo de incendio
+POBREZA,Nivel de pobreza
+MARGINACIO,Nivel de marginación
+TIPO_RASGO,Tipo de rasgo
+DOCUMENTOS,Direccion en el equipo de cómputo de los documentos
+GIS,Direccion en el equipo del sistema de informacióngeográfica
+anp_pot_nu,Área natural protegida…
+DIRECCION,Dirección
+UTMESTE,Coordenada UTM este
+UTMNORTE,Coordenada UTM norte
+Z_UTM,Zona UTM
+LONGITUD,Longitud
+LATITUD,Latitud
+OBJECTID,número de registro en la base de datos
+Shape,Tipo de dato 
+SIGNATURA,Identificador único
+ZA_1,Zona arqueológica
+VOCACION,Vocación
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+URBANO,Contexto urbano
+RURAL,Contexto rural
+METROPOL,Zona metropolitana
+CONTEXTO,Contexto
+TIPO_MUN,Tipo de número
+IndexedObjectId,Indexedobjectido de contextos
+MinGX,Mingxo de contextos
+MinGY,Mingyo de contextos
+MaxGX,Maxgxo de contextos
+MaxGY,Maxgyo de contextos
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+Z_METRO,Zona metropolitana
+URBANO,Urbano 
+OBJECTID,Número resgistrada en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificadr único
+ZA,Zona arqueológica
+NOM_ENT,Entidad federativa
+VISITA_OF,Visita oficial
+COSTA,LA ZA se encuentra en la costa
+OBJECTID,Número asignado en la base de datos
+SHAPE,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+TIPO,Tipo de ecosistema presente en la zona
+VEGSEC,Vegetación secunadaría
+EROSION,Erosión
+SHAPE_Length,Perímetro
+SHAPE_Area,Área
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+FID_escuelas_za_,FID de la escuela
+id,Identificador
+nom_estab,Nombre del establecimiento
+raz_social,Razón socia
+codigo_act,Codigo en acta
+nombre_act,Nombre acta
+per_ocu,Número de personas que ocupan el inmueble
+tipo_vial,Tipo de vialidad
+nom_vial,Nombre de la vialidad
+tipo_v_e_1,Tipo de vialidad (Colindancia 1)
+nom_v_e_1,Nombre de vialidad (Colindancia
+tipo_v_e_2,Tipo de vialidad (Colindancia 2)
+nom_v_e_2,Nombre de vialidad (Colindancia 3)
+tipo_v_e_3,Tipo de vialidad (Colindancia 3)
+nom_v_e_3,Nombre de vialidad (Colindancia 3)
+numero_ext,Número exterior
+letra_ext,Letra exterior
+edificio,Número de edificio 
+edificio_e,Piso de ubicación
+numero_int,Número interior
+letra_int,Letra exterior
+tipo_asent,Tipo de asentamiento
+nomb_asent,Nombre del asentamiento
+tipoCenCom,Tipo de centro comercial
+nom_CenCom,Nombre del centro comercial
+num_local,Número de local
+cod_postal,Codigo postal 
+cve_ent,Clave de la entidad federativa
+entidad,Nombre de la entidad 
+cve_mun,Clave del municipio
+municipio,Nombre del municipio
+cve_loc,Clave de la localidad
+localidad,Nombre de la localidad
+ageb,Áreas Geoestadísticas Básicas
+manzana,Manzana
+telefono,Teléfono
+correoelec,Correo electrónico
+www,Pagina Web
+tipoUniEco,Tipouniecoo de contextos
+latitud,Coordenada geográfica latitud
+longitud,Coordenada geográfica longitud
+fecha_alta,Fecha de alta
+FID_escuelas_za,Identificado único
+OBJECTID,número de registro en la base de datos
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+LATITUD_1,Latitud
+LONGITUD_1,Longitud
+ESTADO,Entidad federativa
+CLAVE,Clave del estado 
+BUFF_DIST,Distancia del buffer
+Shape_Leng,Perímetro
+OBJECTID,Número registrado en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+NOM_ENT_1,Nombre de la entidad
+NOM_MUN_1,Nombre del municipio
+Visita_Of_1,Visita oficial
+Cerro,Existencia de un cerro cercano a la zona
+OBJECTID,número registrado en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+VISITA_OF,Visita oficial
+OBJECTID_12,Objectido de contextos
+FID_ZA_326_POL,Fid_Za_326o de contextos
+Signatura_1,Identificador único
+FID_zonificacion_forestal_nal,Fid_Zonificacion_Forestalo de contextos
+OBJECTID_12_13,Objectid_12o de contextos
+SubCatZF,Subcategoría zona federal
+FIRST_Cate,Firsto de contextos
+Shape_Leng,Perímetro
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+OBJECTID,Número de registro en la base de datos
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+NOM_ENT,Número de la entidad
+NOM_MUN,Número del municipio
+CLAVE_REG,Clave de registro
+NOM_SENAL,Nombre de la ZA que en aparece  la señalización 
+NOM_CED,Nombre de la ZA que en aparece en la cedula de registro
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+CAT_LFD,Categoría de la ley federal de derechos 
+PAGOS,Pagos
+CEDULA_REG,Cedula de registro 
+PROYECTO_A,Proyecto arqueológico
+DIAGNOSTIC,Dignostico
+POLIGONAL,Poligonal
+EXP_TEC,Expediente técnico
+DECRETO_ZM,Decreto de zona de monumentos
+PAT_MUNIDA,Patrimonio mundial
+PROP_INAH,Propiedad INAH
+PROP_FEDER,Propiedad federal
+CUSTODIA_T,Custodiada
+PAT_VIGENT,Programa anual de trabajo vigente
+PROY_PRESE,Proyecto presente
+Z_METRO,Zona metropolitana
+NUCLEOS_A,Núcleos agrarios
+MINERIA,Minerias cerca
+INFRA_SUST,Infrestructura sustentable
+P_MANEJ,Planes de manejo
+ZONIFIC,Zonificación
+PLANIMET,Planimetría
+MUSEOS_SIT,Museo de sitio
+ANP,Área natural protegida
+VISITA,Visitantes
+GASTO_B,Gasto basico
+EQUIP_INCE,Equipo de incendio
+POBREZA,Nivel  de pobreza
+MARGINACIO,Nivel de marginación
+TIPO_RASGO,Tipo de rasgo
+DOCUMENTOS,Documentación
+GIS,Sistema de información geográfica
+OID_1,Oido de contextos
+anp_pot_num,Anp_Poto de contextos
+JURIDICO,Juridico
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+A_2008,Número de visitantes 2008
+A_2009,Número de vistantes 2009
+A_2010,Número de vistantes 2010
+A_2011,Número de vistantes 2011
+A_2012,Número de vistantes 2012
+A_2013,Número de vistantes 2013
+A_2014,Número de vistantes 2014
+A_2015,Número de vistantes 2015
+A_2016,Número de vistantes 2016
+A_2017,Número de vistantes 2017
+A_2018,Número de vistantes 2018
+TOT_GRAL,Total de visitantes
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+SABADO_19,Número de visitantes sabado 19
+BOLETOS_19,Boletos vendidos sabado 19
+DOMINGO_20,Número de visitnates domingo 20
+BOLETOS_20,Número de boletos domingo 20
+LUNES_21,Número de visitantes lunes 21
+BOLETOS_21,Número de boletos vendidos lunes 21
+TOTAL_VISITA,Total de visitantes
+TOTAL_BOLETOS,Total de boletos vendidos
+OBSERVACI,Observaciones
+OBJECTID,Número de registro
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológia
+VISITA_OF_1,Visita oficial
+CIERRE_TEM_1,Cierre temporal
+Estado,Entidad federativa
+d17_07_17,Número de visitantes
+d18_07_17,Número de visitantes
+d19_07_17,Número de visitantes
+d20_07_17,Número de visitantes
+d21_07_17,Número de visitantes
+d22_07_17,Número de visitantes
+d23_07_17,Número de visitantes
+d24_07_17,Número de visitantes
+d25_07_17,Número de visitantes
+d26_07_17,Número de visitantes
+d27_07_17,Número de visitantes
+d28_07_17,Número de visitantes
+d29_07_17,Número de visitantes
+d30_07_17,Número de visitantes
+d31_07_17,Número de visitantes
+d01_08_17,Número de visitantes
+d02_08_17,Número de visitantes
+d03_08_17,Número de visitantes
+d04_08_17,Número de visitantes
+d05_08_17,Número de visitantes
+d06_08_17,Número de visitantes
+d07_08_17,Número de visitantes
+d08_08_17,Número de visitantes
+d09_08_17,Número de visitantes
+d10_08_17,Número de visitantes
+d11_08_17,Número de visitantes
+d12_08_17,Número de visitantes
+d13_08_17,Número de visitantes
+d14_08_17,Número de visitantes
+d15_08_17,Número de visitantes
+d16_08_17,Número de visitantes
+d17_08_17,Número de visitantes
+d18_08_17,Número de visitantes
+d19_08_17,Número de visitantes
+d20_08_17,Número de visitantes
+TOTAL,Total de visitantes
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+Entidad,Entidad federativa
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+mar_17_nac,Visitantes nacionales 17 de marzo
+mar_18_nac,Visitantes nacionales 18 de marzo
+mar_19_nac,Visitas nacionales 19 de marzo
+mar_20_nac,Visitas nacionales 20 de marzo
+mar_21_nac,Visitas nacionales 21 de marzo
+mar_17_ext,Visitas extranjeras 17 de marzo
+mar_18_ext,Visitasextranjeras 18 de marzo
+mar_19_ext,Visitas extranjeras 19 de marzo
+mar_20_ext,Visitas extranjeras 20 de marzo
+mar_21_ext,Visitas extranjeras 21 de marzo
+mar_17_bol,Número de boletos 17 de marzo
+mar_18_bol,Número de boletos 18 de marzo
+mar_19_bol,Número de boletos 19 de marzo
+mar_20_bol,Número de boletos 10 de marzo
+mar_21_bol,Número de boletos 21 de marzo
+mar_17_mon,Monto recaudado 17 de marzo
+mar_18_mon,Monto recaudado 18 de marzo
+mar_19_mon,Monto recaudado 19 de marzo
+mar_20_mon,Monto recaudado 20 de marzo
+mar_21_mon,Monto recaudado 21 de marzo
+TOTAL,Total 
+OBJECTID,Número registrado en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+mar_18,Numero de visitantes marzo 18
+mar_19,Número de visitantes marzo 19
+mar_20,Número de visitantes marzo 20
+mar_21,Número de visitantes marzo 21
+mar_22,Número de visitantes marzo 22
+mar_23,Número de visitantes marzo 23
+mar_24,Número de visitantes marzo 24
+mar_25,Número de visitantes marzo 25
+mar_26,Número de visitantes marzo 26
+mar_27,Número de visitantes marzo 27
+mar_28,Número de visitantes marzo 28
+mar_29,Número de visitantes marzo 29
+mar_30,Número de visitantes marzo 30
+mar_31,Número de visitantes marzo 31
+abr_1,Número de vistantes abril 1
+abr_2,Numero de vistantes Abril  2
+abr_3,Numero de vistantes Abril  3
+total,Total de vistantes
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+Estado,Entidad federativa
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+Observaciones,Observaciones
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+abr_07,Visitantes abril 7
+abr_08,Visitantes abril 8
+abr_09,Visitantes abril 9
+abr_10,Visitantes abril 10
+abr_11,Visitantes abril 11
+abr_12,Visitantes abril 12
+abr_13,Visitantes abril 13
+abr_14,Visitantes abril 14
+abr_15,Visitantes abril 15
+abr_16,Visitantes abril 16
+abr_17,Visitantes abril 17
+abr_18,Visitantes abril 18
+abr_19,Visitantes abril 19
+abr_20,Visitantes abril 20
+abr_21,Visitantes abril 21
+abr_22,Visitantes abril 22
+abr_23,Visitantes abril 23
+Total,Total de visitantes
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Indentificador único
+ZA,Zona arqueológica
+Entidad,Entidad federativa
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+TOTAL,Total de visitantes
+abr_01,Visitantes abril 1
+abr_02,Visitantes abril 2
+abr_03,Visitantes abril 3
+abr_04,Visitantes abril 4
+abr_05,Visitantes abril 5
+abr_06,Visitantes abril 6
+abr_07,Visitantes abril 7
+abr_08,Visitantes abril 8
+mar_24,Visitantes marzo 24
+mar_25,Visitantes marzo 25
+mar_26,Visitantes marzo 26
+mar_27,Visitantes marzo 27
+mar_28,Visitantes marzo 28
+mar_29,Visitantes marzo 29
+mar_30,Visitantes marzo 30
+mar_31,Visitantes marzo 31
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueoloógica
+Entidad,Entidad federativa
+VISITA_OF,Visita oficiales
+CIERRE_TEM,Cierre temporal
+abr_01_nac,Visitantes nacionales abril  1
+abr_02_nac,Visitantes nacionales abril  2
+abr_03_nac,Visitantes nacionales abril  3
+abr_04_nac,Visitantes nacionales abril  4
+abr_05_nac,Visitantes nacionales abril  5
+abr_06_nac,Visitantes nacionales abril  6
+abr_07_nac,Visitantes nacionales abril  7
+abr_08_nac,Visitantes nacionales abril  8
+mar_24_nac,Vistantes nacionales marzo 24
+mar_25_nac,Vistantes nacionales marzo 25
+mar_26_nac,Vistantes nacionales marzo 26
+mar_27_nac,Vistantes nacionales marzo 27
+mar_28_nac,Vistantes nacionales marzo 28
+mar_29_nac,Vistantes nacionales marzo 29
+mar_30_nac,Vistantes nacionales marzo 30
+mar_31_nac,Vistantes nacionales marzo 31
+abr_01_ext,Visitantes extranjeros abril 1
+abr_02_ext,Visitantes extranjeros abril 2
+abr_03_ext,Visitantes extranjeros abril 3
+abr_04_ext,Visitantes extranjeros abril 4
+abr_05_ext,Visitantes extranjeros abril 5
+abr_06_ext,Visitantes extranjeros abril 6
+abr_07_ext,Visitantes extranjeros abril 7
+abr_08_ext,Visitantes extranjeros abril 8
+mar_24_ext,Visitantes extranjeros abril 24
+mar_25_ext,Visitantes extranjeros abril 25
+mar_26_ext,Visitantes extranjeros abril 26
+mar_27_ext,Visitantes extranjeros abril 27
+mar_28_ext,Visitantes extranjeros abril 28
+mar_29_ext,Visitantes extranjeros abril 29
+mar_30_ext,Visitantes extranjeros abril 30
+mar_31_ext,Visitantes extranjeros abril 31
+abr_01_bol,Total de boletos abril 1
+abr_02_bol,Total de boletos abril 2
+abr_03_bol,Total de boletos abril 3
+abr_04_bol,Total de boletos abril 4
+abr_05_bol,Total de boletos abril 5
+abr_06_bol,Total de boletos abril 6
+abr_07_bol,Total de boletos abril 7
+abr_08_bol,Total de boletos abril 8
+mar_24_bol,Total de boletos marzo 24
+mar_25_bol,Total de boletos marzo 25
+mar_26_bol,Total de boletos marzo 26
+mar_27_bol,Total de boletos marzo 27
+mar_28_bol,Total de boletos marzo 28
+mar_29_bol,Total de boletos marzo 29
+mar_30_bol,Total de boletos marzo 30
+mar_31_bol,Total de boletos marzo 31
+abr_01_mon,Monto total abril1
+abr_02_mon,Monto total abril2
+abr_03_mon,Monto total abril3
+abr_04_mon,Monto total abril4
+abr_05_mon,Monto total abril5
+abr_06_mon,Monto total abril6
+abr_07_mon,Monto total abril7
+abr_08_mon,Monto total abril8
+mar_24_mon,Monto total marzo 24
+mar_25_mon,Monto total marzo 25
+mar_26_mon,Monto total marzo 26
+mar_27_mon,Monto total marzo 27
+mar_28_mon,Monto total marzo 28
+mar_29_mon,Monto total marzo 29
+mar_30_mon,Monto total marzo 30
+mar_31_mon,Monto total marzo 31
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+Estado,Entidad federativa
+d17_07_17,Visitantes julio 17
+d18_07_17,Visitantes julio 18
+d19_07_17,Visitantes julio 19
+d20_07_17,Visitantes julio 20
+d21_07_17,Visitantes julio 21
+d22_07_17,Visitantes julio 22
+d23_07_17,Visitantes julio 23
+d24_07_17,Visitantes julio 24
+d25_07_17,Visitantes julio 25
+d26_07_17,Visitantes julio 26
+d27_07_17,Visitantes julio 27
+d28_07_17,Visitantes julio 28
+d29_07_17,Visitantes julio 29
+d30_07_17,Visitantes julio 30
+d31_07_17,Visitantes julio 31
+d01_08_17,Visitantes agosto 1
+d02_08_17,Visitantes agosto 2
+d03_08_17,Visitantes agosto 3
+d04_08_17,Visitantes agosto 4
+d05_08_17,Visitantes agosto 5
+d06_08_17,Visitantes agosto 6
+d07_08_17,Visitantes agosto 7
+d08_08_17,Visitantes agosto 8
+d09_08_17,Visitantes agosto 9
+d10_08_17,Visitantes agosto 10
+d11_08_17,Visitantes agosto 11
+d12_08_17,Visitantes agosto 12
+d13_08_17,Visitantes agosto 13
+d14_08_17,Visitantes agosto 14
+d15_08_17,Visitantes agosto 15
+d16_08_17,Visitantes agosto 16
+d17_08_17,Visitantes agosto 17
+d18_08_17,Visitantes agosto 18
+d19_08_17,Visitantes agosto 19
+d20_08_17,Visitantes agosto 20
+Total,Total de visitantes
+OBJECTID,Número de registro oficial
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF_1,Visita oficial
+CIERRE_TEM_1,Cierre temporal
+Estado,Entidad federativa
+d17_07_17,Visitantes julio 17
+d18_07_17,Visitantes julio 18
+d19_07_17,Visitantes julio 19
+d20_07_17,Visitantes julio 20
+d21_07_17,Visitantes julio 21
+d22_07_17,Visitantes julio 22
+d23_07_17,Visitantes julio 23
+d24_07_17,Visitantes julio 24
+d25_07_17,Visitantes julio 25
+d26_07_17,Visitantes julio 26
+d27_07_17,Visitantes julio 27
+d28_07_17,Visitantes julio 28
+d29_07_17,Visitantes julio 29
+d30_07_17,Visitantes julio 30
+d31_07_17,Visitantes julio 31
+d01_08_17,Visitantes agosto 1
+d02_08_17,Visitantes agosto 2
+d03_08_17,Visitantes agosto 3
+d04_08_17,Visitantes agosto 4
+d05_08_17,Visitantes agosto 5
+d06_08_17,Visitantes agosto 6
+d07_08_17,Visitantes agosto 7
+d08_08_17,Visitantes agosto 8
+d09_08_17,Visitantes agosto 9
+d10_08_17,Visitantes agosto 10
+d11_08_17,Visitantes agosto 11
+d12_08_17,Visitantes agosto 12
+d13_08_17,Visitantes agosto 13
+d14_08_17,Visitantes agosto 14
+d15_08_17,Visitantes agosto 15
+d16_08_17,Visitantes agosto 16
+d17_08_17,Visitantes agosto 17
+d18_08_17,Visitantes agosto 18
+d19_08_17,Visitantes agosto 19
+d20_08_17,Visitantes agosto 20
+TOTAL,Total de visitantes
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+Entidad,Entidad federativa
+VISITA_OF_1,Visita oficial
+d06_07_18_nac,Visitantes nacionales julio 6
+d06_07_18_ext,Visitantes extranjeros  julio 6
+d06_07_18_bol,Boletos vendidos julio 6
+d06_07_18_mon,Monto julio 6
+d07_07_18_nac,Visitantes nacionales julio 7
+d07_07_18_ext,Visitantes bolionales julio 7
+d07_07_18_bol,Boletos vendidos julio 7
+d07_07_18_mon,Monto julio 7
+d08_07_18_nac,Visitantes nacionales julio 8
+d08_07_18_ext,Visitantes estranjeros julio 8
+d08_07_18_bol,Boletaje julio
+d08_07_18_mon,Monto julio 8
+d09_07_18_nac,Visitantes nacionales julio 9
+d09_07_18_ext,Visitantes extranjeros julio 9
+d09_07_18_bol,Boletaje julio 9
+d09_07_18_mon,Monto julio 9
+d10_07_18_nac,Vistantes nacionales julio 10
+d10_07_18_ext,Visitantes extranjeros julio 10
+d10_07_18_bol,Total de boletos julio 10
+d10_07_18_mon,Monto julio 10
+d11_07_18_nac,Visitantes nacionales julio 11
+d11_07_18_ext,Visitantes extranjeros julio 11
+d11_07_18_bol,Total de boletos julio 11
+d11_07_18_mon,Monto total julio 11
+d12_07_18_nac,Visitantes nacionales julio 12
+d12_07_18_ext,Visitantes extranjeros julio 12
+d12_07_18_bol,Total de boletos julio 12
+d12_07_18_mon,Monto total julio 12
+d13_07_18_nac,Visitantes nacioneles julio 13
+d13_07_18_ext,Visitantes extranjeros julio 13
+d13_07_18_bol,Total de boletos julio 13
+d13_07_18_mon,Monto total julio 13
+d13_08_18_nac,Visitantes nacionales julio 13
+d14_07_18_nac,Visitantes nacionales julio 14
+d14_07_18_ext,Visitantes exttranjeros julio 14
+d14_07_18_bol,Total de boletos julio 14
+d14_07_18_mon,Monto total julio 14
+d15_07_18_nac,Visitantes nacionales julio 15
+d15_07_18_ext,Visitantes extranjeros julio 15
+d15_07_18_bol,Total de boletos julio 15
+d15_07_18_mon,Monto total julio 15
+d16_07_18_nac,Visitantes nacionales julio 16
+d16_07_18_ext,Visitantes extranjeros julio 16
+d16_07_18_bol,Total de boletos julio 16
+d16_07_18_mon,Monto total julio 16
+d17_07_18_nac,Visitantes nacioneles julio 17
+d17_07_18_ext,Visitantes extranjeros julio 17
+d17_07_18_bol,Total de boletos julio 17
+d17_07_18_mon,Monto total julio 17
+d18_07_18_nac,Visitantes nacionales julio 18
+d18_07_18_ext,Visitantes extranjeros julio 18
+d18_07_18_bol,Total de boletos julio 18
+d18_07_18_mon,Monto total julio 18
+d19_07_18_nac,Visitantes nacionales julio 19
+d19_07_18_ext,Visitantes extranjeros julio 19
+d19_07_18_bol,Total de boletos julio 19
+d19_07_18_mon,Monto total julio 19
+d20_07_18_nac,Visitantes nacionales julio 20
+d20_07_18_ext,Visitantes extranjeros julio 20
+d20_07_18_bol,Total de boletos julio 20
+d20_07_18_mon,Monto total julio 20
+d21_07_18_nac,Visitantes nacionales julio 21
+d21_07_18_ext,Visitantes extranjeros julio 21
+d21_07_18_bol,Total de boletos julio 21
+d21_07_18_mon,Monto total julio 21
+d22_07_18_nac,Visitantes nacionales julio 22
+d22_07_18_ext,Visitantes extranjeros julio 22
+d22_07_18_bol,Total de boletos julio 22
+d22_07_18_mon,Monto total julio 22
+d23_07_18_nac,Visitantes naionales julio 23
+d23_07_18_ext,Visitantes extranjeros julio 23
+d23_07_18_bol,Venta de boletos julio 23
+d23_07_18_mon,Monto total julio 23
+d24_07_18_nac,Visitantes nacionales julio 24
+d24_07_18_ext,Visitantes extranjeros julio 24
+d24_07_18_bol,Total de boletos julio 24
+d24_07_18_mon,Monto total julio 24
+d25_07_18_nac,Visitantes nacionales julio 25
+d25_07_18_ext,Visitantes extranjeros julio 25
+d25_07_18_bol,Total de boletos julio 25
+d25_07_18_mon,Monto total julio 25
+d26_07_18_nac,Visitantes nacionales julio 26
+d26_07_18_ext,Total de visitantes extranjeros
+d26_07_18_bol,Total de boletos
+d26_07_18_mon,Monto total
+d27_07_18_nac,Total visitantes nacionales
+d27_07_18_ext,Total de visitantes extranjeros
+d27_07_18_bol,Total de boletos
+d27_07_18_mon,Monto total
+d28_07_18_nac,Total visitantes nacionales
+d28_07_18_ext,Total de visitantes extranjeros
+d28_07_18_bol,Total de boletos
+d28_07_18_mon,Monto total
+d29_07_18_nac,Total visitantes nacionales
+d29_07_18_ext,Total de visitantes extranjeros
+d29_07_18_bol,Total de boletos
+d29_07_18_mon,Monto total
+d30_07_18_nac,Total visitantes nacionales
+d30_07_18_ext,Total de visitantes extranjeros
+d30_07_18_bol,Total de boletos
+d30_07_18_mon,Monto total
+d31_07_18_nac,Total visitantes nacionales
+d31_07_18_ext,Total de visitantes extranjeros
+d31_07_18_bol,Total de boletos
+d31_07_18_mon,Monto total
+d01_08_18_nac,Total visitantes nacionales
+d01_08_18_ext,Total de visitantes extranjeros
+d01_08_18_bol,Total de boletos
+d01_08_18_mon,Monto total
+d02_08_18_nac,Total visitantes nacionales
+d02_08_18_ext,Total de visitantes extranjeros
+d02_08_18_bol,Total de boletos
+d02_08_18_mon,Monto total
+d03_08_18_nac,Total visitantes nacionales
+d03_08_18_ext,Total de visitantes extranjeros
+d03_08_18_bol,Total de boletos
+d03_08_18_mon,Monto total
+d04_08_18_nac,Total visitantes nacionales
+d04_08_18_ext,Total de visitantes extranjeros
+d04_08_18_bol,Total de boletos
+d04_08_18_mon,Monto total
+d05_08_18_nac,Total visitantes nacionales
+d05_08_18_ext,Total de visitantes extranjeros
+d05_08_18_bol,Total de boletos
+d05_08_18_mon,Monto total
+d06_08_18_nac,Total visitantes nacionales
+d06_08_18_ext,Total de visitantes extranjeros
+d06_08_18_bol,Total de boletos
+d06_08_18_mon,Monto total
+d07_08_18_nac,Total visitantes nacionales
+d07_08_18_ext,Total de visitantes extranjeros
+d07_08_18_bol,Total de boletos
+d07_08_18_mon,Monto total
+d08_08_18_nac,Total visitantes nacionales
+d08_08_18_ext,Total de visitantes extranjeros
+d08_08_18_bol,Total de boletos
+d08_08_18_mon,Monto total
+d09_08_18_nac,Total visitantes nacionales
+d09_08_18_ext,Total de visitantes extranjeros
+d09_08_18_bol,Total de boletos
+d09_08_18_mon,Monto total
+d10_08_18_nac,Total visitantes nacionales
+d10_08_18_ext,Total de visitantes extranjeros
+d10_08_18_bol,Total de boletos
+d10_08_18_mon,Monto total
+d11_08_18_nac,Total visitantes nacionales
+d11_08_18_ext,Total de visitantes extranjeros
+d11_08_18_bol,Total de boletos
+d11_08_18_mon,Monto total
+d12_08_18_nac,Total visitantes nacionales
+d12_08_18_ext,Total de visitantes extranjeros
+d12_08_18_bol,Total de boletos
+d12_08_18_mon,Monto total
+d13_08_18_ext,Total de visitantes extranjeros
+d13_08_18_bol,Total de boletos
+d13_08_18_mon,Monto total
+d14_08_18_nac,Total visitantes nacionales
+d14_08_18_ext,Total de visitantes extranjeros
+d14_08_18_bol,Total de boletos
+d14_08_18_mon,Monto total
+d15_08_18_nac,Total visitantes nacionales
+d15_08_18_ext,Total de visitantes extranjeros
+d15_08_18_bol,Total de boletos
+d15_08_18_mon,Monto total
+d16_08_18_nac,Total visitantes nacionales
+d16_08_18_ext,Total de visitantes extranjeros
+d16_08_18_bol,Total de boletos
+d16_08_18_mon,Monto total
+d17_08_18_nac,Total visitantes nacionales
+d17_08_18_ext,Total de visitantes extranjeros
+d17_08_18_bol,Total de boletos
+d17_08_18_mon,Monto total
+d18_08_18_nac,Total visitantes nacionales
+d18_08_18_ext,Total de visitantes extranjeros
+d18_08_18_bol,Total de boletos
+d18_08_18_mon,Monto total
+d19_08_18_nac,Total visitantes nacionales
+d19_08_18_ext,Total de visitantes extranjeros
+d19_08_18_bol,Total de boletos
+d19_08_18_mon,Monto total
+TOT_NAC,Total de visitantes nacionales
+TOT_EXT,Total de visitantes extranjeros
+TOT_BOL,Total de boletos
+TOT_MON,Monto total
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+CIERRE_TEM,Cierre temporal
+Estado,Entidad federativa
+S_17_23_JUL,Visitantes semana del 17 a la 23 de julio
+S_24_30_JUL,Visitantes semana del 24 al 30 de julio
+S_31_06_AGO,Visitantes semana del 31 de julio al 6 de agosto
+S_07_13_AGO,Visitantes semana del 7 al 13 de agosto
+S_14_20_AGO,Visitantes semana del 14 al 20 de agosto
+Total,Total de visitantes
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+Mismos campos O04VeranoSemana2017,Mismos significados de  O04VeranoDia2018
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+Mismos campos de O04VeranoDia2018,Mismos significados de  O04VeranoDia2018
+OBJECTID_1,Identificador único
+Shape,Tip de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2005,Total de visitantes 2005
+T_2006,Total de visitantes 2006
+T_2007,Total de visitantes 2007
+T_2008,Total de visitantes 2008
+T_2009,Total de visitantes 2009
+T_2010,Total de visitantes 2010
+T_2011,Total de visitantes 2011
+T_2012,Total de visitantes 2012
+T_2013,Total de visitantes 2013
+T_2014,Total de visitantes 2014
+T_2015,Total de visitantes 2015
+T_2016,Total de visitantes 2016
+T_2017,Total de visitantes 2017
+TOTAL_G,Total general
+PROM_10_ANO,Promedio de los últimos 10 años
+ORD_10_ANO,Lugar que ocupa en el promedio de los últimos 10 años
+PROM_5_ANO1,Promedio de los últimos 5 años
+ORD_5_ANO1,Lugar que ocupa en el promedio de los últimos 5 años
+PROM_5_ANO2,Promedio de los últimos 5 años
+ORD_5_ANO2,Lugar que ocupa en el promedio de los últimos 5 años
+SIGNATURA,Número de registro en la base de datos
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+ENE_2017,enero_2017
+FEB_2017,febrero_2017
+MAR_2017,marzo_2017
+ABR_2017,abril_2017
+MAY_2017,mayo_2017
+JUN_2017,junio_2017
+JUL_2017,julio_2017
+AGO_2017,agosto_2017
+SEP_2017,septiembre_2017
+OCT_2017,octubre_2017
+NOV_2017,noviembre_2017
+DIC_2017,diciembre_2017
+SIGNATURA,Número de registro en la base de datos
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+extranjero_2005,Visitas de extranjeros 2005
+nacional_2005,Visitas nacionales 2005
+extranjero_2006,Visitas de extranjeros 2006
+nacional_2006,Visitas nacionales 2006
+extranjero_2007,Visitas de extranjeros 2007
+nacional_2007,Visitas nacionales 2007
+extranjero_2008,Visitas de extranjeros 2008
+nacional_2008,Visitas nacionales 2008
+extranjero_2009,Visitas de extranjeros 2009
+nacional_2009,Visitas nacionales 2009
+extranjero_2010,Visitas de extranjeros 2010
+nacional_2010,Visitas nacionales 2010
+extranjero_2011,Visitas de extranjeros 2011
+nacional_2011,Visitas nacionales 2011
+extranjero_2012,Visita de extranjeros 2012
+nacional_2012,Visitas nacionales 2012
+extranjero_2013,Visitas de extranjeros 2013
+nacional_2013,Visita nacionales 2013
+extranjero_2014,Visita de extranjeros 2014
+nacional_2014,Visitas nacionales 2014
+extranjero_2015,Visitas extranjeros 2015
+nacional_2015,Visitas nacionales 2015
+extranjero_2016,Visitas de extranjeros 2016
+nacional_2016,Visitas nacionales 2016
+extranjero_2017,Visitas de extranjeros 2017
+nacional_2017,Visitas nacionales 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2005,Total de boletos 2005
+T_2006,Total de boletos 2006
+T_2007,Total de boletos 2007
+T_2008,Total de boletos 2008
+T_2009,Total de boletos 2009
+T_2010,Total de boletos 2010
+T_2011,Total de boletos 2011
+T_2012,Total de boletos 2012
+T_2013,Total de boletos 2013
+T_2014,Total de boletos 2014
+T_2015,Total de boletos 2015
+T_2016,Total de boletos 2016
+T_2017,Total de boletos 2017
+SIGNATURA,Número registrado en la base de datos
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2007,Total 2007
+T_2008,Total 2008
+T_2009,Total 2009
+T_2010,Total 2010
+T_2011,Total 2011
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+T_2012,Total 2012
+T_2013,Total 2013
+T_2014,Total 2014
+T_2015,Total 2015
+T_2016,Total 2016
+T_2017,Total 2017
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+VISITA_OF,Visita oficial
+REPORTE_2005,Estado del reporte 2005
+OBSERVACIONES_2005,Observaciones reporte 2005
+REPORTE_2006,Estado de reporte 2006
+OBSERVACIONES_2006,Observaciones de reporte 2006
+REPORTE_2007,Estado de reporte 2007
+OBSERVACIONES_2007,Observaciones de reporte 2007
+REPORTE_2008,Estado de reporte 2008
+OBSERVACIONES_2008,Observaciones del reporte 2008
+REPORTE_2009,Estado de reporte 2009
+OBSERVACIONES_2009,Observaciones de reporte 2009
+REPORTE_2010,Estado de reporte 2010
+OBSERVACIONES_2010,Observaciones del reporte 2010
+REPORTE_2011,Estado del reporte 2011
+OBSERVACIONES_2011,Observaciones del reporte 2011
+REPORTE_2012,Estado del reporte 2012
+OBSERVACIONES_2012,Observaciones del reporte 2012
+REPORTE_2013,Estado del reporte 2013
+OBSERVACIONES_2013,Observaciones del reporte 2013
+REPORTE_2014,Estado del reporte 2014
+OBSERVACIONES_2014,Observaciones del reporte 2014
+REPORTE_2015,Estado del reporte 2015
+OBSERVACIONES_2015,Observacones del reporte
+REPORTE_2016,Estado del reporte 2016
+OBSERVACIONES_2016,Observaciones del reporte 2016
+REPORTE_2017,Estado del reprte 2017
+OBSERVACIONES_2017,Observaciones del reporte 2017
+OBJECTID,Número de registro en la base de datos
+SIGNATURA,Identificador único
+VISITA_OF,Visita oficial
+Año,Año
+Mes,Mes
+Nacionalidad,Nacionalidad
+BoletoPagado,Boleto pagada
+Discapacitados,Discapacitados
+EntradaDominical,Entrada dominical
+EntradaSinCosto,Entrada sin costo
+EstudiantesBasico,Estudiantes basicos
+EstudiantesSuperior,Estudiantes superior
+ExposicionesTemp,Exposiciones temporales
+Profesores,Profesores
+TerceraE_Jub_Pens,Tercera edad/ personas jubiladas
+TrabajINAH,Trabajador INAH
+OBJECTID_1,Número de registro en la base de datos
+Shape,Tipo de dato
+CVE_ENT,Clave de la entidad
+CVE_MUN,Clave del municipio
+CVE_LOC,Clave de la localidad
+ESTADO,Nombre del estado
+MUNICIPIO,Nombre del municipio
+LOCALIDAD,Nombre de la localidad
+DESTINO,Destino turístico
+OF_2017,Oficial 2017
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+CVE_ENT,Clave de la entidad
+CVE_MUN,Clave del municipio
+CVE_LOC,Clave de la localidad
+ESTADO,Entidad federativa
+MUNICIPIO,Nombre del municipio
+LOCALIDAD,Nombre de la localidad
+PUEB_MAGIC,Nombre del pueblo mágico 
+OBJECTID_12,Número de registro en la base de datos
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+SIGNATURA,Identificador único
+ZA,Zona arqueológica
+MENOR_10KM,Zona arqueológica en un radio menor a los 10 km 
+DE_10_A_50KM,Zona arqueológica en un intervalo de radio de 10 km a 50 km 
+DE_50_A_100KM,Zona arqueológica en un intervalo de radio de 50 km a 100 km 
+PUEB_MAGIC,Nombre del pueblo mágico 
+OBJECTID,Número de registro en la base de datos
+Shape,Tipo de dato
+PUERTO,Nombre del puerto
+NOM_ENT,Nombre de la entidad
+CVE_ENT,Clave de la entidad
+CVE_MUN,Clave del municipio
+NOM_MUN,Nombre del municipio
